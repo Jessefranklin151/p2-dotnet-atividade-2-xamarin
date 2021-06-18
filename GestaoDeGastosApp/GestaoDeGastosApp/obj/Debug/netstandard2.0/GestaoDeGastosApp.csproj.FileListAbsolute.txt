@@ -1,0 +1,15 @@
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\bin\Debug\netstandard2.0\GestaoDeGastosApp.deps.json
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\bin\Debug\netstandard2.0\GestaoDeGastosApp.dll
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\bin\Debug\netstandard2.0\ref\GestaoDeGastosApp.dll
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\bin\Debug\netstandard2.0\GestaoDeGastosApp.pdb
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\GestaoDeGastosApp.AssemblyInfoInputs.cache
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\GestaoDeGastosApp.AssemblyInfo.cs
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\GestaoDeGastosApp.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\GestaoDeGastosApp.dll
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\ref\GestaoDeGastosApp.dll
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\GestaoDeGastosApp.pdb
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\GestaoDeGastosApp.csprojAssemblyReference.cache
+C:\dev\dotnet\GestaoDeGastosApp\GestaoDeGastosApp\GestaoDeGastosApp\obj\Debug\netstandard2.0\Detail.xaml.g.cs

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GestaoDeGastosApp.MainPage">
+
+    <StackLayout Padding="20">
+
+        <StackLayout Margin="0, 10">
+            <Entry x:Name="entPreco" Keyboard="Numeric" Placeholder="Preço"></Entry>
+            <Entry x:Name="entDesc" Placeholder="Descrição da compra"></Entry>
+
+            <Button 
+                Margin="0, 5"
+                Text="Cadastrar"
+                HorizontalOptions="FillAndExpand"
+                BackgroundColor="#3f51b5"
+                TextColor="White"
+                Clicked="Button_Clicked"/>
+        </StackLayout>
+
+        <StackLayout Margin="0, 10">
+            <ListView x:Name="Gastos" ItemSelected="Gastos_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate >
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                                <Label TextColor="Black" HorizontalOptions="StartAndExpand" Margin="15, 0" Text="{ Binding Descricao }"/>
+                                <Label TextColor="Black" HorizontalOptions="EndAndExpand" Margin="15, 0" Text="{ Binding Preco }"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>
